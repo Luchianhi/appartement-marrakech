@@ -106,7 +106,7 @@ CONFIG = {
     # SEO
     "mots_cles": "appartement Marrakech, location Marrakech, Airbnb Marrakech, vacances Maroc, location courte durée Marrakech",
     "hote_nom": "Luchianhi",
-    "hote_photo": "https://i.pravatar.cc/150?img=11",
+    "hote_photo": "https://a0.muscache.com/im/pictures/user/3ec8be54-0709-457a-9b72-f29dc89620f9.jpg?im_w=240",
     "annee_hote": 2021,
 
     # Couleurs du site (personnalisables)
