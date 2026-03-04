@@ -59,11 +59,11 @@ CONFIG = {
 
     # Photos (URLs ou chemins locaux)
     "photos": [
-        {"url": "D:\09_PICTURES\0903_APPART\APPART MARRAKECH\APPART SOCOMA\20260227_125812", "alt": "Salon lumineux"},
-        {"url": "D:\09_PICTURES\0903_APPART\APPART MARRAKECH\APPART SOCOMA\20260227_125855", "alt": "Chambre principale"},
-        {"url": "D:\09_PICTURES\0903_APPART\APPART MARRAKECH\APPART SOCOMA\20260227_125924", "alt": "Salle de bain"},
-        {"url": "D:\09_PICTURES\0903_APPART\APPART MARRAKECH\APPART SOCOMA\20260227_125956", "alt": "Cuisine"},
-        {"url": "D:\09_PICTURES\0903_APPART\APPART MARRAKECH\APPART SOCOMA\20260225_ 225729", "alt": "Petit salon"},
+        {"url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1629117532108126066/original/1b582171-7c95-4788-9942-d2f477fbbea9.jpeg?im_w=1440", "alt": "Salon lumineux"},
+        {"url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1629117532108126066/original/92ca6923-77ab-468a-a362-c4554e334cd9.jpeg?im_w=1440", "alt": "Chambre principale"},
+        {"url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1629117532108126066/original/2a45bde1-bcd9-496f-8ba4-8e04400c7ca0.jpeg?im_w=480", "alt": "Salle de bain"},
+        {"url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1629117532108126066/original/94c265a1-20b9-497b-afad-17153e134d72.jpeg?im_w=480", "alt": "Cuisine"},
+        {"url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1629117532108126066/original/7f255030-4a9e-45f5-8b63-f3bea28d5fee.jpeg?im_w=480", "alt": "Petit salon"},
     ],
 
     # Équipements (icônes emoji ou texte)
